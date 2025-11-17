@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Memory file maintenance and session capture/save workflow for multi-session AI projects",
   "author": {
-    "name": "AAS Project",
+    "name": "Louis Grenzebach",
     "email": "louis.grenzebach@gmail.com"
   },
   "license": "MIT",
